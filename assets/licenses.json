@@ -1,0 +1,30 @@
+[{
+    "category": "Weapons",
+    "country": "FR",
+    "licences": "HUNTING"
+}, {
+    "category": "Weapons",
+    "country": "UK",
+    "licences": "HUNTING"
+}, {
+    "category": "Alcohol",
+    "country": "UK",
+    "licences": "OLDER_THAN_21"
+}, {
+    "category": "Alcohol",
+    "country": "DE",
+    "licences": "OLDER_THAN_21"
+}, {
+    "category": "Fishing",
+    "country": "CZ",
+    "licences": "FISHING"
+}, {
+    "category": "Fishing",
+    "country": "US",
+    "licences": "FISHING"
+}, {
+    "category": "Fishing",
+    "country": "XE",
+    "licences": "FISHING"
+}
+]
